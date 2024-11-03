@@ -1,4 +1,4 @@
-package basecamp.eolymp.com;
+package basecamp.eolymp.com.control.flow;
 
 import java.util.Scanner;
 
